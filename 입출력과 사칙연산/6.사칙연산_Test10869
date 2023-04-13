@@ -1,0 +1,6 @@
+a,b = input().split()
+print(int(a)+int(b))
+print(int(a)-int(b))
+print(int(a)*int(b))
+print(int(a)//int(b)) #버림 나눗셈_소수점 이하는 버림
+print(int(a)%int(b))
